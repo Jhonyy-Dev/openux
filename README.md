@@ -158,7 +158,7 @@ Before you can use Gitpod:
 
 ## Core Contributors
 
-- **Jhonatan Yokarique** ([@jhonyokarique](https://github.com/jhonyokarique)) - Project Lead
+- **Jhonatan Yokarique** ([@Yokarique](https://github.com/Jhonyy-Dev)) - Project Lead
 - Weights & Biases Engineering Team
 
 ## License
